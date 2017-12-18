@@ -141,6 +141,8 @@ If the tests are passing and the lab is submitted, all lights will turn green an
 
 Congratulations, you've passed your first lab!!!
 
+Testing git.
+
 ## Summary
 
 For every lab, the workflow you will use to solve it is:
